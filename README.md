@@ -7,7 +7,7 @@
  - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Jtrellnyleswash/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Jtrellnyleswash/azure-network-protocols)
- <b>VPN (Setup and Installation)</b>
+- <b>VPN (Setup and Installation)</b>
   - [VPN Setup and Installation](https://github.com/Jtrellnyleswash/vpn)
 - <b> How to Uprade a Windowws VM through Azure</b>
   - [Existing Windows VM Upgrade](https://github.com/Jtrellnyleswash/vmupgradeazure)
